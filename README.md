@@ -13,3 +13,6 @@ Additional Software: Sublime Text 3.
 	- ok.html (client-HTML)
 	- styles.css client-CSS)
 5) Save all these files (server.js, ok.html, package.json, styles.css) in one folder.
+6) Open the folder in command line.
+7) Type "node server" to run server.
+8) Open Chrome and run "localhost:3000"
